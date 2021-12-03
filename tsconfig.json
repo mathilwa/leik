@@ -29,7 +29,7 @@
       "dom",
       "es2016"
     ],
-    "baseUrl": ".",
+    "baseUrl": "./app",
     "forceConsistentCasingInFileNames": true,
     "isolatedModules": true,
     "noFallthroughCasesInSwitch": true
