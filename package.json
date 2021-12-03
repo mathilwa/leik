@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "prettier": "^2.5.0",
-    "ts-lint": "^4.5.1",
-    "tslint-config-prettier": "^1.18.0",
-    "tslint-react": "^5.0.0"
-  }
-}
