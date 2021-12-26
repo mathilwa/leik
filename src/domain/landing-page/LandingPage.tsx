@@ -36,9 +36,10 @@ const LandingPage: React.FC = () => {
             <div className="headerPictureContainer">
                 <img src={headerPicture} alt="Sidetittel som bilde: Bare fordi det er gøy med.." />
             </div>
-            <div>
+            <div className="categoryTagsContainer">
                 {tags.map(tag => (
                     <CategoryTag
+                        key={tag}
                         tag={tag}
                         selected={selectedCategories.includes(tag)}
                         onClick={() => updateSelectedCategories(tag)}
