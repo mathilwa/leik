@@ -1,2 +1,0 @@
-(this.webpackJsonpleik=this.webpackJsonpleik||[]).push([[0],{11:function(e,t,n){"use strict";n.r(t);var c=n(1),s=n.n(c),i=n(3),r=n.n(i),o=(n(8),n(9),n(0)),j=function(){return Object(o.jsxs)("div",{className:"App",children:[Object(o.jsx)("h1",{children:"Lek mer"}),Object(o.jsx)("p",{children:"La oss leke litt"})]})};r.a.render(Object(o.jsx)(s.a.StrictMode,{children:Object(o.jsx)(j,{})}),document.getElementById("root"))},8:function(e,t,n){},9:function(e,t,n){}},[[11,1,2]]]);
-//# sourceMappingURL=main.a4fcab24.chunk.js.map
