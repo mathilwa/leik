@@ -1,51 +1,41 @@
 {
-  "compileOnSave": false,
   "compilerOptions": {
-    "target": "esnext",
+    "target": "ES2015",
     "module": "esnext",
-    "allowJs": false,
-    "jsx": "react-jsx",
-    "moduleResolution": "node",
-    "esModuleInterop": true,
-    "allowSyntheticDefaultImports": true,
-    "noImplicitAny": true,
+    "jsx": "react",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "resolveJsonModule": true,
     "strict": true,
+    "noImplicitAny": true,
     "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "strictPropertyInitialization": true,
+    "noImplicitThis": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "preserveConstEnums": true,
-    "skipLibCheck": true,
-    "sourceMap": true,
     "noImplicitReturns": true,
-    "resolveJsonModule": true,
-    "noEmit": true,
+    "noFallthroughCasesInSwitch": true,
     "typeRoots": [
       "./types",
       "./node_modules/@types"
     ],
+    "esModuleInterop": true,
     "lib": [
-      "esnext",
-      "es6",
       "dom",
-      "es2016"
+      "dom.iterable",
+      "esnext"
     ],
-    "baseUrl": ".",
+    "allowJs": true,
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node",
     "isolatedModules": true,
-    "noFallthroughCasesInSwitch": true
+    "noEmit": true
   },
-  "exclude": [
-    "node_modules",
-    "server.ts",
-    "dist",
-    ".next",
-    "out",
-    "next.config.js"
-  ],
   "include": [
-    "next-env.d.ts",
     "**/*.ts",
-    "**/*.tsx",
-    "./src/ts/**/*"
+    "**/*.tsx"
   ]
 }

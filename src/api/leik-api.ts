@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const apiUrl = `https://leik-api-staging.herokuapp.com/`;
+const apiUrl = `https://leik-api-staging.herokuapp.com`;
 
 export const fetchGames = async (): Promise<string[]> => {
     const fetchedAuctionObject = await axios.get<string[]>(`${apiUrl}/`);
