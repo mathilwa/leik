@@ -31,8 +31,4 @@ jobs:
     - run: npm test
 
 env:
-          REACT_APP_LEIK_API_BASEURL: $ {
-            {
-              secrets.REACT_APP_LEIK_API_BASEURL
-            }
-            }
+    REACT_APP_LEIK_API_BASEURL: ${{ secrets.REACT_APP_LEIK_API_BASEURL }}
