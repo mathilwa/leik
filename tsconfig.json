@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "ES2015",
     "module": "esnext",
-    "jsx": "react-jsx",
+    "jsx": "react",
     "outDir": "./build",
     "rootDir": "./src",
     "resolveJsonModule": true,
