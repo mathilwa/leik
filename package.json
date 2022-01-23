@@ -6,7 +6,7 @@
     "node": "10"
   },
   "scripts": {
-    "start": "ts-node src/server.ts",
+    "start": "node src/server.ts",
     "dev": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --passWithNoTests",
