@@ -3,7 +3,7 @@
     "target": "ES2015",
     "module": "esnext",
     "jsx": "react-jsx",
-    "outDir": "./dist",
+    "outDir": "./build",
     "rootDir": "./src",
     "resolveJsonModule": true,
     "strict": true,
