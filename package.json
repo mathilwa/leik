@@ -2,6 +2,7 @@
   "name": "leik",
   "version": "0.1.0",
   "private": false,
+  "homepage": "https://mathilwa.github.io/leik/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
