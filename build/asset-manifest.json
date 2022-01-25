@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/leik/static/css/main.5844565e.chunk.css",
-    "main.js": "/leik/static/js/main.e3c6848d.chunk.js",
-    "main.js.map": "/leik/static/js/main.e3c6848d.chunk.js.map",
+    "main.js": "/leik/static/js/main.d15c8ade.chunk.js",
+    "main.js.map": "/leik/static/js/main.d15c8ade.chunk.js.map",
     "runtime-main.js": "/leik/static/js/runtime-main.c25e4cc8.js",
     "runtime-main.js.map": "/leik/static/js/runtime-main.c25e4cc8.js.map",
     "static/js/2.4010d606.chunk.js": "/leik/static/js/2.4010d606.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.c25e4cc8.js",
     "static/js/2.4010d606.chunk.js",
     "static/css/main.5844565e.chunk.css",
-    "static/js/main.e3c6848d.chunk.js"
+    "static/js/main.d15c8ade.chunk.js"
   ]
 }
