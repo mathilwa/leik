@@ -32,7 +32,7 @@ const LandingPage: React.FC = () => {
     const gamesToShow = games.filter(game => selectedCategories.includes(game.category));
 
     return (
-        <div className="pageContainer">
+        <div className="pageContainer test">
             <div className="headerPictureContainer">
                 <img src={headerPicture} alt="Sidetittel som bilde: Bare fordi det er gøy med.." />
             </div>
