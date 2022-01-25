@@ -2,9 +2,6 @@
   "name": "leik",
   "version": "0.1.0",
   "private": false,
-  "engines": {
-    "node": "10"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
