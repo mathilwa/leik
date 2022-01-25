@@ -1,5 +1,0 @@
-{
-    "watch": ["server.ts"],
-    "exec": "NODE_ENV=development NODE_ICU_DATA=./node_modules/full-icu ts-node --project tsconfig-server.json server.ts",
-    "ext": "ts,json"
-}

@@ -1,8 +1,7 @@
 {
     "extends": "./tsconfig.json",
-    "files": [
-      "src/server.ts","polyfills.ts"],
-    "include": ["./server/**/*.ts"],
+    "files": [ "polyfills.ts"],
+    "include": [],
     "compilerOptions": {
         "module": "commonjs",
         "target": "es2017",
