@@ -10,7 +10,7 @@ const LandingPage: React.FC = () => {
     const [games, setGames] = useState<Game[]>([]);
     const [selectedCategories, setSelectedCategories] = useState<Category[]>([]);
 
-    const tags = [Category.MusicGames];
+    const tags = [Category.Music, Category.Quiz];
 
     async function fetchAllGames() {
         const fetchedGames = await LeikApi.fetchGames();
@@ -32,7 +32,7 @@ const LandingPage: React.FC = () => {
     const gamesToShow = games.filter(game => selectedCategories.includes(game.category));
 
     return (
-        <div className="pageContainer test">
+        <div className="pageContainer">
             <div className="headerPictureContainer">
                 <img src={headerPicture} alt="Sidetittel som bilde: Bare fordi det er gøy med.." />
             </div>
