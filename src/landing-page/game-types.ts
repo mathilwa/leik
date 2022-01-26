@@ -1,4 +1,4 @@
-import { Category } from '../../domain/landing-page/category-tag/category-tag-types';
+import { Category } from './category-tag/category-tag-types';
 
 export interface Game {
     title: string;

@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import './landing.css';
 import headerPicture from './images/header-picture.svg';
-import * as LeikApi from '../../api/leik-api';
+import * as LeikApi from '../api/leik-api';
 import { Category } from './category-tag/category-tag-types';
 import CategoryTag from './category-tag/CategoryTag';
-import { Game } from '../../components/game/game-types';
+import { Game } from './game-types';
 
 const LandingPage: React.FC = () => {
     const [games, setGames] = useState<Game[]>([]);
