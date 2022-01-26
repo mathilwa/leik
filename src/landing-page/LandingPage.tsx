@@ -31,8 +31,6 @@ const LandingPage: React.FC = () => {
 
     const gamesToShow = games.filter(game => selectedCategories.includes(game.category));
 
-    const hello = process.env.REACT_APP_LEIK_API_BASEURL;
-
     return (
         <div className="pageContainer test">
             <div className="headerPictureContainer">
@@ -48,7 +46,6 @@ const LandingPage: React.FC = () => {
                     />
                 ))}
             </div>
-            <div>Test: {hello}</div>
             <div className="gamesList">
                 {gamesToShow.map(game => (
                     <li key={game.title} className="game">
