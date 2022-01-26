@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/leik/static/css/main.5844565e.chunk.css",
-    "main.js": "/leik/static/js/main.d15c8ade.chunk.js",
-    "main.js.map": "/leik/static/js/main.d15c8ade.chunk.js.map",
+    "main.css": "/leik/static/css/main.7f86b4a6.chunk.css",
+    "main.js": "/leik/static/js/main.76ebfcfd.chunk.js",
+    "main.js.map": "/leik/static/js/main.76ebfcfd.chunk.js.map",
     "runtime-main.js": "/leik/static/js/runtime-main.c25e4cc8.js",
     "runtime-main.js.map": "/leik/static/js/runtime-main.c25e4cc8.js.map",
     "static/js/2.4010d606.chunk.js": "/leik/static/js/2.4010d606.chunk.js",
     "static/js/2.4010d606.chunk.js.map": "/leik/static/js/2.4010d606.chunk.js.map",
     "index.html": "/leik/index.html",
-    "static/css/main.5844565e.chunk.css.map": "/leik/static/css/main.5844565e.chunk.css.map",
+    "static/css/main.7f86b4a6.chunk.css.map": "/leik/static/css/main.7f86b4a6.chunk.css.map",
     "static/js/2.4010d606.chunk.js.LICENSE.txt": "/leik/static/js/2.4010d606.chunk.js.LICENSE.txt",
     "static/media/header-picture.8280a002.svg": "/leik/static/media/header-picture.8280a002.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c25e4cc8.js",
     "static/js/2.4010d606.chunk.js",
-    "static/css/main.5844565e.chunk.css",
-    "static/js/main.d15c8ade.chunk.js"
+    "static/css/main.7f86b4a6.chunk.css",
+    "static/js/main.76ebfcfd.chunk.js"
   ]
 }
