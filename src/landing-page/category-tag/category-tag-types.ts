@@ -1,3 +1,4 @@
 export enum Category {
-    MusicGames = 'MUSIKKLEKER',
+    Music = 'MUSIKKLEKER',
+    Quiz = 'QUIZ',
 }

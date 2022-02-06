@@ -7,17 +7,26 @@ interface CategoryTagTheme {
 }
 
 const themeEntries: { [key in Category]: CategoryTagTheme } = {
-    [Category.MusicGames]: {
+    [Category.Music]: {
         color: '#EA332B',
         borderColor: '#EA332B',
+    },
+    [Category.Quiz]: {
+        color: '#679ED1',
+        borderColor: '#679ED1',
     },
 };
 
 const selectedEntries: { [key in Category]: CategoryTagTheme } = {
-    [Category.MusicGames]: {
+    [Category.Music]: {
         color: '#FFF',
         backgroundColor: '#EA332B',
         borderColor: '#EA332B',
+    },
+    [Category.Quiz]: {
+        color: '#FFF',
+        backgroundColor: '#679ED1',
+        borderColor: '#679ED1',
     },
 };
 
