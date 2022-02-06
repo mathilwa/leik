@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/leik/static/css/main.284e2357.chunk.css",
+    "main.js": "/leik/static/js/main.eae58d54.chunk.js",
+    "main.js.map": "/leik/static/js/main.eae58d54.chunk.js.map",
+    "runtime-main.js": "/leik/static/js/runtime-main.c25e4cc8.js",
+    "runtime-main.js.map": "/leik/static/js/runtime-main.c25e4cc8.js.map",
+    "static/js/2.6776f180.chunk.js": "/leik/static/js/2.6776f180.chunk.js",
+    "static/js/2.6776f180.chunk.js.map": "/leik/static/js/2.6776f180.chunk.js.map",
+    "index.html": "/leik/index.html",
+    "static/css/main.284e2357.chunk.css.map": "/leik/static/css/main.284e2357.chunk.css.map",
+    "static/js/2.6776f180.chunk.js.LICENSE.txt": "/leik/static/js/2.6776f180.chunk.js.LICENSE.txt",
+    "static/media/header-picture.8280a002.svg": "/leik/static/media/header-picture.8280a002.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c25e4cc8.js",
+    "static/js/2.6776f180.chunk.js",
+    "static/css/main.284e2357.chunk.css",
+    "static/js/main.eae58d54.chunk.js"
+  ]
+}
