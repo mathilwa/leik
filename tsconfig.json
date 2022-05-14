@@ -3,7 +3,7 @@
     "target": "es2017",
     "module": "esnext",
     "jsx": "react-jsx",
-    "outDir": "./build",
+    "outDir": "./public/build",
     "rootDir": "./src",
     "resolveJsonModule": true,
     "strict": true,
